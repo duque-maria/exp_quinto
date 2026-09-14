@@ -1,0 +1,35 @@
+body {
+    background-color: #dff6ff;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 30px;
+}
+
+h1 {
+    color: #6c2eb9;
+    font-size: 40px;
+}
+
+p {
+    color: #333333;
+    font-size: 20px;
+}
+
+h2 {
+    color: #e85d04;
+}
+
+ul {
+    list-style-position: inside;
+    font-size: 20px;
+}
+
+button {
+    background-color: #6c2eb9;
+    color: white;
+    border: none;
+    padding: 12px 25px;
+    font-size: 18px;
+    border-radius: 10px;
+    cursor: pointer;
+}
